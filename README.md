@@ -9,3 +9,8 @@ If you have used and would like to acknowledge this code in an academic thesis o
     title = {Bell Correlations and Optical Quantum Memory for Noble-Gas Nuclear Spins},
     year = 2024
 }"
+
+Requirements:
+
+py-pde (0.34.0), including prerequisites (https://py-pde.readthedocs.io/en/latest/)
+scienceplots (2.1.1) (https://pypi.org/project/SciencePlots/)
